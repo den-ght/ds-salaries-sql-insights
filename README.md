@@ -66,6 +66,8 @@ This project is open-source and free to use under the MIT license.
 ## 📊 Interactive Tableau Dashboard
 
 
-👉 [View interactive dashboard on Tableau Public]([https://public.tableau.com/app/profile/denys.aralov/viz/zadanie_6_17405051915480/Dashboard2](https://public.tableau.com/views/salaries_2025/Dashboard1))
+👉 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/denys.aralov/viz/zadanie_6_17405051915480/Dashboard2)
+
+![Dashboard Screenshot](dashboard_2.png)
 
 
