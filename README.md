@@ -65,6 +65,6 @@ This project is open-source and free to use under the MIT license.
 
 ## 📊 Interactive Tableau Dashboard
 
-https://public.tableau.com/views/salaries_2025/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[![Dashboard Preview](dashboard.png)](https://public.tableau.com/views/salaries_2025/Dashboard1)
 
 👉 Click the image to view the full interactive dashboard on Tableau Public
